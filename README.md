@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24292F,65:2D333B,100:F97316&height=170&section=header&text=Dowon%20(David)%20Kim&fontColor=FFFFFF&fontSize=46&fontAlignY=40&desc=Robotics%20%C2%B7%20LiDAR%20SLAM%20%C2%B7%20Edge%20AI&descSize=18&descAlignY=68&animation=fadeIn" alt="Dowon Kim" />
+<img width="100%" src="./assets/banner.svg" alt="Dowon (David) Kim — Robotics · LiDAR SLAM · Edge AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=720&lines=Building+robots+that+work+outside+the+simulator;ROS+2+%C2%B7+LiDAR+SLAM+%C2%B7+Nav2+%C2%B7+Edge+AI;Robotics+SWE+Intern+%40+i4+Technologies;Computer+Engineering+%40+HKU+%C2%B7+Class+of+2028" alt="Typing intro" />
 
 <a href="mailto:dowonkim2004@gmail.com"><img src="https://img.shields.io/badge/Email-2D333B?style=flat-square&logo=gmail&logoColor=F97316" /></a>
 <a href="https://www.linkedin.com/in/dowonkim0429"><img src="https://img.shields.io/badge/LinkedIn-2D333B?style=flat-square&logo=linkedin&logoColor=F97316" /></a>
@@ -40,4 +39,3 @@ I care about results I can actually back up: fail-closed checks, honest limitati
 - **AI / Vision:** YOLO · RF-DETR · TensorRT · OpenCV · SCRFD / MobileFaceNet · LangGraph · RAG
 - **Embedded:** Jetson Nano · CUDA · GStreamer · Arduino C++
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:24292F,65:2D333B,100:F97316&height=6&section=footer" alt="" />
