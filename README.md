@@ -24,8 +24,6 @@ I care about results I can actually back up: fail-closed checks, honest limitati
 | 🛡️ **[PatrolPro](https://github.com/kimddo1/PatrolPro)** | AI security patrol robot. **Team lead, A+.** YOLO11n as TensorRT INT8 at 30 FPS on Jetson Nano, SCRFD + MobileFaceNet face verification, Jetson↔Arduino protocol | Jetson · TensorRT · GStreamer · Arduino C++ |
 | 🪞 **[MyMirrorAI](https://github.com/kimddo1/CMM_MyMirrorAI)** | Smart-mirror skincare analysis. **Top 5 of 90+ teams, nominated to HKSTP Ideation.** 10-class skin-condition YOLO, burst-capture best-frame selection, rule-based + LLM recommendations | YOLO · Albumentations · Flask · LLM |
 | 💼 **[Kocruit](https://github.com/kimddo1/KOSA-FINAL-PROJECT-02)** | AI recruiting platform. **1st place, KOSA capstone.** LangGraph multi-agent job-posting and applicant-scoring pipeline, resume similarity search | LangGraph · OpenAI · ChromaDB · FastAPI · React |
-| 🚗 **[AMR Docking Simulator](https://github.com/kimddo1/AMR_Docking)** | 2D differential-drive docking under sensor noise and dropouts: filtering and gating, docking FSM, safety supervisor with dynamic obstacles | Python · state estimation |
-| 📄 **[PDF Redaction Assistant](https://github.com/kimddo1/PDF_Redaction_Assistant)** | Fully client-side app that detects dates and names in a PDF and highlights them in a live viewer before redaction. No backend. | React · PDF.js · NLP |
 
 #### 🛠️ Tech
 
