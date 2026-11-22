@@ -27,7 +27,7 @@ I care about results I can actually back up: fail-closed checks, honest limitati
 | 🤖 **[Indoor Robot Autonomy](https://github.com/kimddo1/robotics-internship-case-study)** | Internship write-up: 2D SLAM → Nav2 from scratch, IMU correction-frame redesign, MOLA 3D localization driving a supervised Nav2 goal | ROS 2 · Nav2 · MOLA · C++ · Python |
 | 🛡️ **[PatrolPro](https://github.com/kimddo1/PatrolPro)** | AI security patrol robot. **Team lead, A+.** YOLO11n as TensorRT INT8 at 30 FPS on Jetson Nano, SCRFD + MobileFaceNet face verification, Jetson↔Arduino protocol | Jetson · TensorRT · GStreamer · Arduino C++ |
 | 🪞 **[MyMirrorAI](https://github.com/kimddo1/CMM_MyMirrorAI)** | Smart-mirror skincare analysis. **Top 5 of 90+ teams, nominated to HKSTP Ideation.** 10-class skin-condition YOLO, burst-capture best-frame selection, rule-based + LLM recommendations | YOLO · Albumentations · Flask · LLM |
-| 💼 **[Kocruit](https://github.com/kimddo1/KOSA-FINAL-PROJECT-02)** | AI recruiting platform. **1st place, KOSA capstone.** LangGraph multi-agent job-posting and applicant-scoring pipeline, resume similarity search | LangGraph · OpenAI · ChromaDB · FastAPI · React |
+| 💼 **[Kocruit](https://github.com/kimddo1/KOSA-FINAL-PROJECT-02)** | AI recruiting platform. **1st place, KOSA capstone.** LangGraph multi-agent job-posting and applicant-scoring pipeline, resume similarity search | LangGraph · OpenAI · ChromaDB · Spring Boot · FastAPI · React |
 
 #### 🛠️ Tech
 
