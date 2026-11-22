@@ -29,10 +29,10 @@ I care about results I can actually back up: fail-closed checks, honest limitati
 
 #### 🛠️ Tech
 
-**Robotics:** ROS 2 · Nav2 · slam_toolbox · AMCL · MOLA · AprilTag · TF / RViz / rosbag · LiDAR–IMU–odometry integration
-**AI / Vision:** YOLO · RF-DETR · TensorRT · OpenCV · SCRFD / MobileFaceNet · LangGraph · RAG
-**Embedded:** Jetson Nano · CUDA · GStreamer · Arduino C++
-**Languages & tools:** Python · C++ · C · JavaScript · FastAPI · MySQL · ChromaDB · Docker · Linux
+- **Robotics:** ROS 2 · Nav2 · slam_toolbox · AMCL · MOLA · AprilTag · TF / RViz / rosbag · LiDAR–IMU–odometry integration
+- **AI / Vision:** YOLO · RF-DETR · TensorRT · OpenCV · SCRFD / MobileFaceNet · LangGraph · RAG
+- **Embedded:** Jetson Nano · CUDA · GStreamer · Arduino C++
+- **Languages & tools:** Python · C++ · C · JavaScript · FastAPI · MySQL · ChromaDB · Docker · Linux
 
 ---
 
