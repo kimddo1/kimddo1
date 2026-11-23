@@ -39,3 +39,4 @@ I care about results I can actually back up: fail-closed checks, honest limitati
 - **AI / Vision:** YOLO · RF-DETR · TensorRT · OpenCV · SCRFD / MobileFaceNet · LangGraph · RAG
 - **Embedded:** Jetson Nano · CUDA · GStreamer · Arduino C++
 
+
